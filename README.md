@@ -2,6 +2,10 @@
 
 A fully playable, browser-based **Ludo board game** built from scratch with pure HTML, CSS, and vanilla JavaScript — no frameworks, no libraries, no dependencies.
 
+## Preview
+
+![Ludo Game Screenshot](ludo-game.png)
+
 ![Technologies](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![Technologies](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![Technologies](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -140,3 +144,6 @@ This project is open source and free to use for learning and personal projects.
 ---
 
 Built with ❤️ using pure HTML, CSS & JavaScript.
+
+
+[def]: ludo-game.png
